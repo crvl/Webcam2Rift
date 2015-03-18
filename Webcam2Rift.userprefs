@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\W2R_Scripts\webcamTexture_L.cs">
+    <Files>
+      <File FileName="Assets\W2R_Scripts\webcamTexture_L.cs" Line="10" Column="16" />
+      <File FileName="Assets\W2R_Scripts\webcamTexture_R.cs" Line="33" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
